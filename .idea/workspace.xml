@@ -2,12 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eddabf0-e117-43bb-bf4c-de6b0c4aed75" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/db2.sqlite3" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/trydjango18/old_settings.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/trydjango18/__init__.py" afterPath="$PROJECT_DIR$/src/codingmatcher/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/trydjango18/settings/__init__.py" afterPath="$PROJECT_DIR$/src/codingmatcher/settings/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/trydjango18/settings/base.py" afterPath="$PROJECT_DIR$/src/codingmatcher/settings/base.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/trydjango18/settings/local.py" afterPath="$PROJECT_DIR$/src/codingmatcher/settings/local.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/trydjango18/settings/production.py" afterPath="$PROJECT_DIR$/src/codingmatcher/settings/production.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/trydjango18/urls.py" afterPath="$PROJECT_DIR$/src/codingmatcher/urls.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/trydjango18/views.py" afterPath="$PROJECT_DIR$/src/codingmatcher/views.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/trydjango18/wsgi.py" afterPath="$PROJECT_DIR$/src/codingmatcher/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/db.sqlite3" afterPath="$PROJECT_DIR$/src/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/manage.py" afterPath="$PROJECT_DIR$/src/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/home.html" afterPath="$PROJECT_DIR$/src/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/activate.html" afterPath="$PROJECT_DIR$/src/templates/registration/activate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/activation_complete.html" afterPath="$PROJECT_DIR$/src/templates/registration/activation_complete.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/activation_email.txt" afterPath="$PROJECT_DIR$/src/templates/registration/activation_email.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/activation_email_subject.txt" afterPath="$PROJECT_DIR$/src/templates/registration/activation_email_subject.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/login.html" afterPath="$PROJECT_DIR$/src/templates/registration/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/logout.html" afterPath="$PROJECT_DIR$/src/templates/registration/logout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/password_change_done.html" afterPath="$PROJECT_DIR$/src/templates/registration/password_change_done.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/password_change_form.html" afterPath="$PROJECT_DIR$/src/templates/registration/password_change_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/password_reset_complete.html" afterPath="$PROJECT_DIR$/src/templates/registration/password_reset_complete.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/password_reset_confirm.html" afterPath="$PROJECT_DIR$/src/templates/registration/password_reset_confirm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/password_reset_done.html" afterPath="$PROJECT_DIR$/src/templates/registration/password_reset_done.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/password_reset_email.html" afterPath="$PROJECT_DIR$/src/templates/registration/password_reset_email.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/password_reset_form.html" afterPath="$PROJECT_DIR$/src/templates/registration/password_reset_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/registration_closed.html" afterPath="$PROJECT_DIR$/src/templates/registration/registration_closed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/registration_complete.html" afterPath="$PROJECT_DIR$/src/templates/registration/registration_complete.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/templates/registration/registration_form.html" afterPath="$PROJECT_DIR$/src/templates/registration/registration_form.html" />
     </list>
     <ignored path="CodingMatcher.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +44,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="C:\Users\gogo\PycharmProjects\AllAspect\CodingMatcher" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -46,12 +74,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="httpd.conf" pinned="false" current-in-tab="true">
+      <file leaf-file-name="httpd.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webfaction/httpd.conf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codingmatcher/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="local.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingmatcher/settings/local.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/questions/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/questions/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +135,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/templates/home.html" />
+        <option value="$PROJECT_DIR$/src/questions/models.py" />
+        <option value="$PROJECT_DIR$/src/codingmatcher/settings/local.py" />
+        <option value="$PROJECT_DIR$/src/questions/admin.py" />
       </list>
     </option>
   </component>
@@ -135,6 +209,64 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodingMatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodingMatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="questions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodingMatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodingMatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codingmatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodingMatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodingMatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codingmatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="settings" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,6 +496,14 @@
       <option name="presentableId" value="Default" />
       <updated>1488639959897</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1488643456847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488643456847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -400,6 +540,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -438,6 +582,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingmatcher/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/questions/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/questions/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingmatcher/settings/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
           <folding />
         </state>
       </provider>
